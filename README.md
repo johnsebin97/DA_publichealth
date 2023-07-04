@@ -2,7 +2,7 @@
 
 # Social Media and Public Health Dataset Analysis
 
-This repository contains the code and analysis for a project that explores the relationship between social media usage, health-related information, and public health organizations. The dataset used in this project has the following schema:
+This repository contains the code and analysis for a project that explores the relationship between social media usage, health-related information, and public health organizations. The dataset used is generated from a survey/questionnaire which has the the following schema:
 
 - **Timestamp**: The timestamp of the survey response.
 - **Age**: Age of the participant.
